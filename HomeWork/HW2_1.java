@@ -34,19 +34,3 @@ public class HW2_1 {
 
 }
 
-// public static void Entering_number(float a) {
-// boolean work = true;
-// System.out.println("Введите дробное число типа float: ");
-// while (work) {
-// try (Scanner scan = new Scanner(System.in)) {
-// flooput = Float.parseFloat(scan.readLine());
-// float i = scan.nextFloat();
-// System.out.println("Введено число :" + " " + flooput);
-// work = false;
-// } catch (NumberFormatException e) {
-// throw new RuntimeException(e);
-// // System.out.println("Ввели не дробное число! Повторите ввод внимательно!");
-// }
-
-// }
-// }
